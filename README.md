@@ -5,12 +5,12 @@ Bootcamp: UTA-VIRT-DATA-PT-04-2023-U-LOLC-MTTH
 Code Files: 
   1. AlphabetSoupCharity.ipynb
   2. AlphabetSoupCharity.h5
-  3. AlphabetSoupCharity_Optimization_v01.ipynb
-  4. AlphabetSoupCharity_Optimization_v01.h5
-  5. AlphabetSoupCharity_Optimization_v02.ipynb
-  6. AlphabetSoupCharity_Optimization_v02.h5
-  7. AlphabetSoupCharity_Optimization_v03.ipynb
-  8. AlphabetSoupCharity_Optimization_v03.h5
+  3. AlphabetSoupCharity_Optimization.ipynb
+  4. AlphabetSoupCharity_Optimization.h5
+  5. AlphabetSoupCharity_Optimization_v01.ipynb
+  6. AlphabetSoupCharity_Optimization_v01.h5
+  7. AlphabetSoupCharity_Optimization_v02.ipynb
+  8. AlphabetSoupCharity_Optimization_v02.h5
 
   
 ## Program:
